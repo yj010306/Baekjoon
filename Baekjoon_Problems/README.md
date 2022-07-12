@@ -1,6 +1,6 @@
 # Baekjoon_Problems
 ---
-## 1. 모든 문제
+## 1. 모든 문제( All_Problems )
 ## 2. 브론즈
 ## 3. 실버
 ## 4. 골드
