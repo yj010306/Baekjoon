@@ -1,4 +1,4 @@
-# [1018_직사각형에서 탈출](https://www.acmicpc.net/problem/1018)
+# [1018_체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 ---
 ## 알고리즘 분류
 * 브루트포스 알고리즘
