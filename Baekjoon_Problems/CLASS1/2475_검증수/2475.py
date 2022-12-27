@@ -1,3 +1,4 @@
+```python
 str = str(input())
 info = str.split(' ')
 
@@ -6,3 +7,4 @@ for i in info:
     val += int(i)*int(i)
 
 print(val%10)
+```
